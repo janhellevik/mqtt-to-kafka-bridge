@@ -7,7 +7,7 @@
     "test": "NODE_ENV=production DEBUG=mqtttokafka:* node ./example/sample.js"
   },
   "dependencies": {
-    "bluebird": "^3.5.2",
+    "bluebird": "^3.7.2",
     "body-parser": "^1.18.3",
     "cors": "^2.8.4",
     "debug": "^4.0.1",
